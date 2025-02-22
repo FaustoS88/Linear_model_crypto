@@ -1,6 +1,6 @@
 # Crypto Trading Model
 
-An advanced quantitative trading system specifically designed for cryptocurrency markets, combining ARIMA forecasting, machine learning predictions, enhanced sentiment analysis, and portfolio optimization to generate crypto investment recommendations.
+An quantitative trading system specifically designed for cryptocurrency markets, combining ARIMA forecasting, machine learning predictions, enhanced sentiment analysis, and portfolio optimization to generate crypto investment recommendations. Experimental only.
 
 ## Features
 
@@ -313,6 +313,8 @@ BERA-USD: 0.111 (Positive)
 ```
 
 ## Analysis Results
+
+![Portfolio Analysis Output](Output.png)
 
 Optimized Portfolio Weights:
 - BTC-USD: 40.00%
