@@ -1,6 +1,6 @@
-# Crypto Trading Model
+# Crypto Linear Model
 
-An advanced quantitative trading system specifically designed for cryptocurrency markets, combining ARIMA forecasting, machine learning predictions, enhanced sentiment analysis, and portfolio optimization to generate crypto investment recommendations.
+An quantitative trading system specifically designed for cryptocurrency markets, combining ARIMA forecasting, machine learning predictions, enhanced sentiment analysis, and portfolio optimization to generate crypto investment recommendations.
 
 ## Features
 
